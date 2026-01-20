@@ -28,14 +28,14 @@ The goal is to scrape at least 5 major Ghanaian news outlets, process the text d
 
 Thanks to our contributors, we cover a wide selection of Ghanaian news sources.
 
-| Contributor                                                  | News Site                                    | Status   |
-| ------------------------------------------------------------ | -------------------------------------------- | -------- |
-| [Kasuadana Sulemana Adams](https://www.linkedin.com/in/kasuadana1/) | [GhanaWeb](https://www.ghanaweb.com)         | Assigned |
-| [Obrempong Kwabena Osei-Wusu](https://www.linkedin.com/in/obrempong-kwabena-osei-wusu-7b0217257/) | [TV3 / 3News](https://3news.com)             | Assigned |
-| [Jonathan Ato Markin](https://www.linkedin.com/in/atomarkin/) | [Citi Newsroom](https://citinewsroom.com)    | Assigned |
-| [Josephus Bawah](https://www.linkedin.com/in/josephus-bawah/) | [Graphic Online](https://www.graphic.com.gh) | Assigned |
-| [Bernard Zephaniah](https://www.linkedin.com/in/bernard-zephaniah-addo-addo-6a728b220/) | [MyJoyOnline](https://www.myjoyonline.com)   | Assigned |
-| [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) | [Ghana News Agency](https://gna.org.gh)      | Assigned |
+| Contributor                                                  | News Site                                    |
+| ------------------------------------------------------------ | -------------------------------------------- |
+| [Kasuadana Sulemana Adams](https://www.linkedin.com/in/kasuadana1/) | [GhanaWeb](https://www.ghanaweb.com)         |
+| [Obrempong Kwabena Osei-Wusu](https://www.linkedin.com/in/obrempong-kwabena-osei-wusu-7b0217257/) | [TV3 / 3News](https://3news.com)             |
+| [Jonathan Ato Markin](https://www.linkedin.com/in/atomarkin/) | [Citi Newsroom](https://citinewsroom.com)    |
+| [Josephus Bawah](https://www.linkedin.com/in/josephus-bawah/) | [Graphic Online](https://www.graphic.com.gh) |
+| [Bernard Zephaniah](https://www.linkedin.com/in/bernard-zephaniah-addo-addo-6a728b220/) | [MyJoyOnline](https://www.myjoyonline.com)   |
+| [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) | [Ghana News Agency](https://gna.org.gh)      |
 
 ------
 
