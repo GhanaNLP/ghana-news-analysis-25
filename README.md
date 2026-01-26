@@ -44,7 +44,7 @@ Thanks to our contributors, we cover a wide selection of Ghanaian news sources.
 When scraping your assigned site, please ensure:
 
 - Only articles published between **January 1, 2025, and December 31, 2025**, are included.
-- Data is saved in a standardized format (CSV or JSON) with the following fields: `date`, `title`, `content`, and `url`.
+- Data is saved in a CSV format with the following fields: `date`, `title`, `sentence`, and `url`.
 
 ### 3. Processing (Tokenization)
 
