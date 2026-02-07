@@ -6,7 +6,7 @@ Ghana Topics is a collaborative public information project to identify key topic
 
 - Total sentences processed: 959,502
 - Total articles analyzed: 61,018
-- Initial unique noun phrases: 1,393,240
+- Total noun phrases: 1,393,240
 - Total phrase occurrences: 5,949,477 
 
 ------
