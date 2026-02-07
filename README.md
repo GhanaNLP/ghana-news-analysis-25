@@ -1,4 +1,4 @@
-# Ghana Topics 2025
+# Ghana Topics (2025)
 
 Ghana Topics is a collaborative public information project to identify key topics that appeared frequently in Ghanaian news annually. The current results are from analyzing over 61,000 news articles published in 2025 across 5 major Ghanaian news outlets. Using NLP techniques and AI-powered classification, we extracted and filtered keywords to surface the topics dominating the news cycle.
 
