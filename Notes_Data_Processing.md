@@ -42,13 +42,11 @@ Five major Ghanaian news outlets were scraped for content published in 2025:
 
 - Tokenized all articles into individual sentences using spaCy
 - Created sentence-level datasets for each news source
-- Output files: `*_tokenized.csv` files in `/sentence-datasets/`
 
 ### Noun Phrase Extraction
 
 - Used spaCy NLP library to extract nouns and noun phrases from each sentence
 - Counted frequency of each noun phrase across all articles
-- Output files: `*_noun_phrases.csv` files in `/noun-phrases/` directory
 
 **Filtering Criteria:**
 
